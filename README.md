@@ -1,0 +1,2 @@
+# .github
+Minecraft battle pass
